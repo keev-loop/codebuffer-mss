@@ -10,6 +10,6 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/keev-loop/codebuffer-mss
+          uri: https://github.com/keev-loop/codebuffer-mss/config
           clone-on-start: true
     
